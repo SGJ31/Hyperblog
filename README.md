@@ -7,7 +7,7 @@ En este curso vemos de todo:
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * El verdadero amor por la buenas practicas
-* Trucos mou locos del profesor
+* Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 
 Y como amable recordatorio: **Este readme_md es un chiste**. Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES ENSERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/).
